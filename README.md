@@ -1,2 +1,2 @@
 # contoh_crud_php
-Web Programming 2 - Quis1
+Syahrul Adiguna K - 14090018 - Web Programming 2
